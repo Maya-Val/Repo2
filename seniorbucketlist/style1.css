@@ -1,0 +1,21 @@
+  
+body{
+    background-color: rgb(223, 202, 252);
+    font-family: "Comic Sans MS";
+}
+
+.header {
+    background-color: rgb(250,217,239);
+}
+
+.list1{
+    background-color: rgb(250,190,229);
+}
+
+.sublist1{
+    background-color: rgb(252,157,244);    
+}
+
+.question{
+    background-color: rgb(252, 116, 241);
+}
