@@ -1,21 +1,28 @@
   
 body{
     background-color: rgb(223, 202, 252);
-    font-family: "Comic Sans MS";
-}
+}    
 
 .header {
     background-color: rgb(250,217,239);
+    font-family: "Comic Sans MS";
 }
 
 .list1{
     background-color: rgb(250,190,229);
+    font-family: 'Courier New';
 }
 
 .sublist1{
-    background-color: rgb(252,157,244);    
+    background-color: rgb(252,157,244);
+    font-family: "Helvetica";    
 }
 
 .question{
     background-color: rgb(252, 116, 241);
+    font-family:"Haettenschweiler";
+}
+
+#firstid{
+    color:aquamarine;
 }
