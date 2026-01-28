@@ -1,0 +1,30 @@
+body{
+    background-color: darkblue;
+    color:white;
+    font-family: Helvetica;
+}
+
+.heading{
+    border-color: lightblue;
+    border-style: dotted;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(234, 183, 247);    
+    background-color: black;
+}
+
+.subheading{
+    border-color: rgb(234, 183, 247);
+    border-style:groove;
+    color: lightblue; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.profile{
+    border-color: white;
+    border-style:solid;
+    border-width: 10px;
+    border-radius: 50%;
+    opacity: 60%;
+   
+}
